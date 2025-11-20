@@ -9,7 +9,7 @@ These commands are intended **only for cybersecurity learning in a controlled la
 
 | Command | Description |
 |--------|-------------|
-| `help` | Show all available commands |
+| `help` | Show all available commands [not working yet] |
 | `exit` | Close the connection and stop the server |
 
 ---
